@@ -5,3 +5,4 @@ Currently this is public and won't be changed to private too often, maybe someti
 
 # Currently includes:
 - Coco Archive
+- Sona Archive
