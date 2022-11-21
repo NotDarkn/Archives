@@ -1,1 +1,0 @@
-game.Workspace.InvisServerEvent:FireServer("a")

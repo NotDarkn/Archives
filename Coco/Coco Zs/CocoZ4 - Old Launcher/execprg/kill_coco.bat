@@ -1,1 +1,0 @@
-taskkill /f /im CocoZ4.exe

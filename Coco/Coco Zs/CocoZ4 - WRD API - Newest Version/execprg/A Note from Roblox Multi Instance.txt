@@ -1,9 +1,0 @@
-Hi, I am Coco's Roblox Multiple Instance Program,
-I exist because Nori sucks at developing
-and couldn't get Multiple Instance working
-without Admin Permissions :smug_face:
-
-If you are worried about how safe i am,
-Just open DNSpy and look at my code.
-
-- Roblox Multiple Instance Program

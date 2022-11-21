@@ -1,1 +1,0 @@
-{"FOV Radius":"9","Aim Key":"EKeyboard","Show FOV":true,"Aimbot":false,"Team Check":false,"Tracers":false,"Aim Part":"Head","ESP":true,"Visuals Color":{"B":123.10343831777573,"R":64.4827526807785,"G":255}}

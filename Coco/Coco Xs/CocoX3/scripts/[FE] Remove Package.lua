@@ -1,5 +1,0 @@
-game.Players.LocalPlayer.Character.CharacterMesh:Remove()
-game.Players.LocalPlayer.Character.CharacterMesh:Remove()
-game.Players.LocalPlayer.Character.CharacterMesh:Remove()
-game.Players.LocalPlayer.Character.CharacterMesh:Remove()
-game.Players.LocalPlayer.Character.CharacterMesh:Remove()

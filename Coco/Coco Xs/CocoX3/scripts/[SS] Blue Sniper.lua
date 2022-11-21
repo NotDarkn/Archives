@@ -1,1 +1,0 @@
-require(2642338970):Fire('ok', 'name')

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AAigars/Lua/master/Hairdresser.lua", true))()

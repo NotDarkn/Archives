@@ -1,1 +1,0 @@
-game.ReplicatedStorage.Weathered:FireServer()

