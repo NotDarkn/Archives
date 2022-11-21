@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://juniorjacob.com/lightdevs/bubblegumsim.txt', true))()

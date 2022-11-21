@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<SyntaxDefinition name="SharpLua" extensions=".slua;.lua">
+    
+    <Properties>
+        <Property name="LineComment" value="--"/>
+    </Properties>
+    
+    <Digits name="Digits" bold="false" italic="false" color="LightBlue"/>
+    
+    <RuleSets>
+        <RuleSet ignorecase="false">
+            <Delimiters>&amp;&lt;&gt;~!%^*()-+=|\/{}[]:;"' ,	.?</Delimiters>
+            
+            <Span name="BlockComment" bold="false" italic="false" color="LightGreen" stopateol="false">
+                <Begin>--[[</Begin>
+                <End>]]</End>
+            </Span>
+
+            <Span name="LineComment" rule="CommentMarkerSet" bold="false" italic="false" color="LightGreen" stopateol="true">
+                <Begin>--</Begin>
+            </Span>
+            
+            <Span name="Char" bold="false" italic="false" color="#D69D85" stopateol="true" escapecharacter="\">
+                <Begin>&apos;</Begin>
+                <End>&apos;</End>
+            </Span>
+            
+            <Span name="String" bold="false" italic="false" color="#D69D85" stopateol="false" escapecharacter="\">
+                <Begin>"</Begin>
+                <End>"</End>
+            </Span>
+            
+            <Span name="MultiLineString" bold="false" italic="false" color="#D69D85" stopateol="false" escapecharacter='"'>
+                <Begin>[[</Begin>
+                <End>]]</End>
+            </Span>
+            
+            <!-- marks functions in bold -->
+            <MarkPrevious bold="false" italic="false" color="#BD63C5">(</MarkPrevious>
+            <KeyWords name="Punctuation" bold="false" italic="false" color="White">
+                <Key word="?"/>
+                <Key word=","/>
+                <Key word="."/>
+                <Key word=";"/>
+                <Key word="("/>
+                <Key word=")"/>
+                <Key word="["/>
+                <Key word="]"/>
+                <Key word="{"/>
+                <Key word="}"/>
+                <Key word="+"/>
+                <Key word="-"/>
+                <Key word="/"/>
+                <Key word="%"/>
+                <Key word="*"/>
+                <Key word="&lt;"/>
+                <Key word="&gt;"/>
+                <Key word="^"/>
+                <Key word="="/>
+                <Key word="~"/>
+                <Key word="!"/>
+                <Key word="|"/>
+                <Key word="&amp;" />
+                <Key word="@"/>
+                <Key word="$"/>
+            </KeyWords>
+            
+            <KeyWords name="Functions" bold="true" italic="false" color="#BD63C5">
+                <Key word="print"/>
+                <Key word="error"/>
+                <Key word="warn"/>
+                <Key word="type"/>
+                <Key word="tostring"/>
+                <Key word="tonumber"/>
+                <Key word="collectgarbage"/>
+                <Key word="pairs"/>
+                <Key word="ipairs"/>
+                <Key word="next"/>
+                <Key word="asset"/>
+                <Key word="pcall"/>
+                <Key word="xpcall"/>
+                <Key word="getsenv"/>
+                <Key word="getmenv"/>
+                <Key word="getrenv"/>
+                <Key word="getgenv"/>
+                <Key word="getfenv"/>
+                <Key word="setfenv"/>
+                <Key word="getreg"/>
+                <Key word="select"/>
+                <Key word="dofile"/>
+                <Key word="require"/>
+                <Key word="openfile"/>
+                <Key word="loadstring"/>
+                <Key word="set"/>
+                <Key word="loadfile"/>
+                <Key word="wait"/>
+                <Key word="rawset"/>
+                <Key word="rawget"/>
+                <Key word="getmetatable"/>
+                <Key word="setmetatable"/>
+                <Key word="ssave"/>
+                <Key word="isreadonly"/>
+                <Key word="XPROTECT"/>
+                <Key word="LUAPROTECT"/>
+                <Key word="setreadonly"/>
+                <Key word="readfile"/>
+                <Key word="writefile"/>
+                <Key word="getrawmetatable"/>
+                <Key word="setclipboard"/>
+                <Key word="luaformat"/>
+                <Key word="RandomString"/>
+                <Key word="ReplaceString"/>
+                <Key word="HttpPost"/>
+                <Key word="GetObjects"/>
+                <Key word="gethwid"/>
+                <Key word="getnilinstances"/>
+                <Key word="getgc"/>
+                <Key word="checkcaller"/>
+                <Key word="getloadedmodules"/>
+                <Key word="getconnections"/>
+            </KeyWords>
+
+            <KeyWords name="CurrentKeywords" bold="false" italic="false" color="#569CD6">
+                <Key word="and"/>
+                <Key word="break"/>
+                <Key word="continue"/>
+                <Key word="do"/>
+                <Key word="else"/>
+                <Key word="elseif"/>
+                <Key word="end"/>
+                <Key word="for"/>
+                <Key word="function"/>
+                <Key word="if"/>
+                <Key word="in"/>
+                <Key word="local"/>
+                <Key word="not"/>
+                <Key word="or"/>
+                <Key word="repeat"/>
+                <Key word="return"/>
+                <Key word="then"/>
+                <Key word="until"/>
+                <Key word="while"/>
+				<Key word="game"/>
+				<Key word="workspace"/>
+            </KeyWords>
+
+            <KeyWords name="Values" bold="false" italic="false" color="#569CD6">
+                <Key word="true"/>
+                <Key word="false"/>
+                <Key word="nil"/>
+            </KeyWords>
+
+            <KeyWords name="Metamethods" bold="false" italic="false" color = "#BD63C5">
+                <Key word="__index"/>
+                <Key word="__newindex"/>
+                <Key word="__call"/>
+                <Key word="__metatable"/>
+                <Key word="__namecall"/>
+                <Key word="__add"/>
+                <Key word="__sub"/>
+                <Key word="__mul"/>
+                <Key word="__div"/>
+                <Key word="__concat"/>
+            </KeyWords>
+            
+            <KeyWords name="Tables" bold="false" italic="false" color="#BD63C5">
+                <Key word="io"/>
+                <Key word="os"/>
+                <Key word="class"/>
+                <Key word="table"/>
+                <Key word="script"/>
+                <Key word="file"/>
+                <Key word="debug"/>
+                <Key word="math"/>
+                <Key word="Synapse"/>
+                <Key word="Sentinel"/>
+                <Key word="Sirhurt"/>
+                <Key word="Protosmasher"/>
+                <Key word="Maximus"/>
+                <Key word="Raindrop"/>
+                <Key word="console"/>
+                <Key word="coroutine"/>
+                <Key word="package"/>
+                <Key word="_G"/>
+                <Key word="string"/>
+            </KeyWords>
+			
+			<KeyWords name="Raindrop_Funcs" bold="true" italic="false" color="Orange">
+				<Key word="AddCommand"/>
+				<Key word="MessageBox"/>
+				<Key word="MessageBoxAsync"/>
+                <Key word="Decompile"/>
+				<Key word="DownloadString"/>
+				<Key word="CopyString"/>
+				<Key word="ExecuteCommand"/>
+				<Key word="FindPlayers"/>
+				<Key word="GetConsole"/>
+			</KeyWords>
+			
+			<KeyWords name="Raindrop_Console_Funcs" bold="true" italic="false" color="Orange">
+				<Key word="CreateConsole"/>
+				<Key word="SetConsoleName"/>
+				<Key word="Write"/>
+				<Key word="WriteLine"/>
+				<Key word="ReadLine"/>
+				<Key word="SetColor"/>
+			</KeyWords>
+        </RuleSet>
+        <RuleSet name="CommentMarkerSet" ignorecase="false">
+            <Delimiters>&lt;&gt;~!@%^*()-+=|\#/{}[]:;"' ,	.?</Delimiters>
+            <KeyWords name="ErrorWords" bold="true" italic="false" color="#dc7878">
+                <Key word="TODO"/>
+                <Key word="FIXME"/>
+            </KeyWords>
+            <KeyWords name="WarningWords" bold="true" italic="false" color="#EEE0E000">
+                <Key word="HACK"/>
+                <Key word="UNDONE"/>
+            </KeyWords>
+        </RuleSet>
+    </RuleSets>
+</SyntaxDefinition>

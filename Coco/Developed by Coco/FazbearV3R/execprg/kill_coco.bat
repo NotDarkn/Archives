@@ -1,0 +1,1 @@
+taskkill /f /im CocoX4.exe

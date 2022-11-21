@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAigars/Lua/master/Bloxy%20Burgers.lua", true))()

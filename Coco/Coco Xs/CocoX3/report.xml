@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols>
+  <Assembly Name="FluxAPI">
+    <Type Name="API" RenamedTo="᪠">
+      <Member Name="luapipename" RenamedTo="᪓" Role="Field" Type="String" />
+      <Member Name="WaitNamedPipe" RenamedTo="᪖" Role="Method" Type="Boolean" />
+      <Member Name="NamedPipeExist" RenamedTo="᪘" Role="Method" Type="Boolean" />
+      <Member Name="LuaPipe" RenamedTo="᪚" Role="Method" Type="Void" />
+      <Member Name="RunScript" RenamedTo="᪜" Role="Method" Type="Void" />
+      <Member Name="Inject" RenamedTo="᪝" Role="Method" Type="Void" />
+      <Member Name="᪑" RenamedTo="᪟" Role="Method" Type="String" />
+    </Type>
+  </Assembly>
+  <Assembly Name="WeAreDevs_API">
+    <Type Name="ExploitAPI" RenamedTo="ᬓ">
+      <Member Name="client" RenamedTo="᪤" Role="Field" Type="WebClient" />
+      <Member Name="injector" RenamedTo="᪥" Role="Field" Type="" />
+      <Member Name="cmdpipe" RenamedTo="᪦" Role="Field" Type="String" />
+      <Member Name="luacpipe" RenamedTo="ᪧ" Role="Field" Type="String" />
+      <Member Name="luapipe" RenamedTo="᪨" Role="Field" Type="String" />
+      <Member Name="WaitNamedPipe" RenamedTo="᪫" Role="Method" Type="Boolean" />
+      <Member Name="NamedPipeExist" RenamedTo="᪭" Role="Method" Type="Boolean" />
+      <Member Name="SMTP" RenamedTo="᪰" Role="Method" Type="Void" />
+      <Member Name="ReadURL" RenamedTo="᪲" Role="Method" Type="String" />
+      <Member Name="GetLatestData" RenamedTo="᪳" Role="Method" Type="String" />
+      <Member Name="IsUpdated" RenamedTo="᪴" Role="Method" Type="Boolean" />
+      <Member Name="DownloadLatestVersion" RenamedTo="᪵" Role="Method" Type="Boolean" />
+      <Member Name="isAPIAttached" RenamedTo="᪶" Role="Method" Type="Boolean" />
+      <Member Name="LaunchExploit" RenamedTo="᪷" Role="Method" Type="Boolean" />
+      <Member Name="SendCommand" RenamedTo="᪹" Role="Method" Type="Void" />
+      <Member Name="SendScript" RenamedTo="᪻" Role="Method" Type="Void" />
+      <Member Name="SendLuaCScript" RenamedTo="᪽" Role="Method" Type="Void" />
+      <Member Name="SendLimitedLuaScript" RenamedTo="ᪿ" Role="Method" Type="Void" />
+      <Member Name="SendLuaScript" RenamedTo="᫁" Role="Method" Type="Void" />
+      <Member Name="LuaC_getglobal" RenamedTo="᫃" Role="Method" Type="Void" />
+      <Member Name="LuaC_getfield" RenamedTo="᫆" Role="Method" Type="Void" />
+      <Member Name="LuaC_setfield" RenamedTo="᫉" Role="Method" Type="Void" />
+      <Member Name="LuaC_pushvalue" RenamedTo="᫋" Role="Method" Type="Void" />
+      <Member Name="LuaC_pushstring" RenamedTo="ᫍ" Role="Method" Type="Void" />
+      <Member Name="LuaC_pushnumber" RenamedTo="᫏" Role="Method" Type="Void" />
+      <Member Name="LuaC_pcall" RenamedTo="᫓" Role="Method" Type="Void" />
+      <Member Name="LuaC_settop" RenamedTo="᫕" Role="Method" Type="Void" />
+      <Member Name="LuaC_pushboolean" RenamedTo="᫗" Role="Method" Type="Void" />
+      <Member Name="LuaC_gettop" RenamedTo="᫘" Role="Method" Type="Void" />
+      <Member Name="LuaC_pushnil" RenamedTo="᫙" Role="Method" Type="Void" />
+      <Member Name="LuaC_next" RenamedTo="᫛" Role="Method" Type="Void" />
+      <Member Name="LuaC_pop" RenamedTo="᫝" Role="Method" Type="Void" />
+      <Member Name="DoBTools" RenamedTo="᫟" Role="Method" Type="Void" />
+      <Member Name="DoKill" RenamedTo="᫡" Role="Method" Type="Void" />
+      <Member Name="CreateForceField" RenamedTo="᫣" Role="Method" Type="Void" />
+      <Member Name="RemoveForceField" RenamedTo="᫥" Role="Method" Type="Void" />
+      <Member Name="DoFloat" RenamedTo="᫧" Role="Method" Type="Void" />
+      <Member Name="DoNoFloat" RenamedTo="᫩" Role="Method" Type="Void" />
+      <Member Name="RemoveLimbs" RenamedTo="᫫" Role="Method" Type="Void" />
+      <Member Name="RemoveArms" RenamedTo="᫭" Role="Method" Type="Void" />
+      <Member Name="RemoveLegs" RenamedTo="᫯" Role="Method" Type="Void" />
+      <Member Name="AddFire" RenamedTo="᫱" Role="Method" Type="Void" />
+      <Member Name="RemoveFire" RenamedTo="᫳" Role="Method" Type="Void" />
+      <Member Name="AddSparkles" RenamedTo="᫵" Role="Method" Type="Void" />
+      <Member Name="RemoveSparkles" RenamedTo="᫷" Role="Method" Type="Void" />
+      <Member Name="AddSmoke" RenamedTo="᫹" Role="Method" Type="Void" />
+      <Member Name="DoBlockHead" RenamedTo="᫻" Role="Method" Type="Void" />
+      <Member Name="ForceBubbleChat" RenamedTo="᫾" Role="Method" Type="Void" />
+      <Member Name="ConsolePrint" RenamedTo="ᬀ" Role="Method" Type="Void" />
+      <Member Name="ConsoleWarn" RenamedTo="ᬂ" Role="Method" Type="Void" />
+      <Member Name="SetWalkSpeed" RenamedTo="ᬅ" Role="Method" Type="Void" />
+      <Member Name="ToggleClickTeleport" RenamedTo="ᬆ" Role="Method" Type="Void" />
+      <Member Name="SetFogEnd" RenamedTo="ᬈ" Role="Method" Type="Void" />
+      <Member Name="SetJumpPower" RenamedTo="ᬊ" Role="Method" Type="Void" />
+      <Member Name="TeleportMyCharacterTo" RenamedTo="ᬌ" Role="Method" Type="Void" />
+      <Member Name="PlaySoundInGame" RenamedTo="ᬎ" Role="Method" Type="Void" />
+      <Member Name="SetSkyboxImage" RenamedTo="ᬐ" Role="Method" Type="Void" />
+      <Member Name="᪢" RenamedTo="ᬒ" Role="Method" Type="String" />
+    </Type>
+  </Assembly>
+  <Assembly Name="Coco X3">
+    <Type Name="CocoX3Update" RenamedTo="᭍">
+      <Member Name="WM_NCLBUTTONDOWN" RenamedTo="ᬗ" Role="Field" Type="Int32" />
+      <Member Name="HT_CAPTION" RenamedTo="ᬘ" Role="Field" Type="Int32" />
+      <Member Name="components" RenamedTo="ᬙ" Role="Field" Type="IContainer" />
+      <Member Name="pictureBox1" RenamedTo="ᬚ" Role="Field" Type="PictureBox" />
+      <Member Name="label1" RenamedTo="ᬛ" Role="Field" Type="Label" />
+      <Member Name="label2" RenamedTo="ᬜ" Role="Field" Type="Label" />
+      <Member Name="button2" RenamedTo="ᬝ" Role="Field" Type="Button" />
+      <Member Name="SendMessage" RenamedTo="ᬢ" Role="Method" Type="Int32" />
+      <Member Name="ReleaseCapture" RenamedTo="ᬣ" Role="Method" Type="Boolean" />
+      <Member Name="FormMoveable_MouseDown" RenamedTo="ᬦ" Role="Method" Type="Void" />
+      <Member Name="CreateRoundRectRgn" RenamedTo="ᬭ" Role="Method" Type="IntPtr" />
+      <Member Name="Form3_Load" RenamedTo="ᬰ" Role="Method" Type="Void" />
+      <Member Name="button1_Click" RenamedTo="ᬳ" Role="Method" Type="Void" />
+      <Member Name="label1_Click" RenamedTo="ᬶ" Role="Method" Type="Void" />
+      <Member Name="label2_Click" RenamedTo="ᬹ" Role="Method" Type="Void" />
+      <Member Name="button2_Click" RenamedTo="ᬼ" Role="Method" Type="Void" />
+      <Member Name="button3_Click" RenamedTo="ᬿ" Role="Method" Type="Void" />
+      <Member Name="button1_Click_1" RenamedTo="ᭂ" Role="Method" Type="Void" />
+      <Member Name="button2_Click_1" RenamedTo="ᭅ" Role="Method" Type="Void" />
+      <Member Name="button6_Click" RenamedTo="ᭈ" Role="Method" Type="Void" />
+      <Member Name="InitializeComponent" RenamedTo="ᭊ" Role="Method" Type="Void" />
+      <Member Name="ᬕ" RenamedTo="ᭌ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="CocoX3Inject" RenamedTo="ᮆ">
+      <Member Name="api" RenamedTo="᭑" Role="Field" Type="᪠" />
+      <Member Name="WRDAPI" RenamedTo="᭒" Role="Field" Type="ᬓ" />
+      <Member Name="WM_NCLBUTTONDOWN" RenamedTo="᭓" Role="Field" Type="Int32" />
+      <Member Name="HT_CAPTION" RenamedTo="᭔" Role="Field" Type="Int32" />
+      <Member Name="components" RenamedTo="᭕" Role="Field" Type="IContainer" />
+      <Member Name="label1" RenamedTo="᭖" Role="Field" Type="Label" />
+      <Member Name="button3" RenamedTo="᭗" Role="Field" Type="Button" />
+      <Member Name="button2" RenamedTo="᭘" Role="Field" Type="Button" />
+      <Member Name="button11" RenamedTo="᭙" Role="Field" Type="Button" />
+      <Member Name="button9" RenamedTo="᭚" Role="Field" Type="Button" />
+      <Member Name="label2" RenamedTo="᭛" Role="Field" Type="Label" />
+      <Member Name="button1" RenamedTo="᭜" Role="Field" Type="Button" />
+      <Member Name="SendMessage" RenamedTo="᭡" Role="Method" Type="Int32" />
+      <Member Name="ReleaseCapture" RenamedTo="᭢" Role="Method" Type="Boolean" />
+      <Member Name="FormMoveable_MouseDown" RenamedTo="᭥" Role="Method" Type="Void" />
+      <Member Name="CreateRoundRectRgn" RenamedTo="᭬" Role="Method" Type="IntPtr" />
+      <Member Name="button2_Click" RenamedTo="᭯" Role="Method" Type="Void" />
+      <Member Name="button3_Click" RenamedTo="᭲" Role="Method" Type="Void" />
+      <Member Name="button11_Click" RenamedTo="᭵" Role="Method" Type="Void" />
+      <Member Name="button9_Click" RenamedTo="᭸" Role="Method" Type="Void" />
+      <Member Name="button1_Click" RenamedTo="᭻" Role="Method" Type="Void" />
+      <Member Name="button1_Click_1" RenamedTo="᭾" Role="Method" Type="Void" />
+      <Member Name="CocoX3Inject_Load" RenamedTo="ᮁ" Role="Method" Type="Void" />
+      <Member Name="InitializeComponent" RenamedTo="ᮃ" Role="Method" Type="Void" />
+      <Member Name="᭏" RenamedTo="ᮅ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="CocoX3Key" RenamedTo="ᮺ">
+      <Member Name="api" RenamedTo="ᮉ" Role="Field" Type="᪠" />
+      <Member Name="WM_NCLBUTTONDOWN" RenamedTo="ᮊ" Role="Field" Type="Int32" />
+      <Member Name="HT_CAPTION" RenamedTo="ᮋ" Role="Field" Type="Int32" />
+      <Member Name="components" RenamedTo="ᮌ" Role="Field" Type="IContainer" />
+      <Member Name="Key" RenamedTo="ᮍ" Role="Field" Type="Label" />
+      <Member Name="label1" RenamedTo="ᮎ" Role="Field" Type="Label" />
+      <Member Name="textBox1" RenamedTo="ᮏ" Role="Field" Type="TextBox" />
+      <Member Name="button11" RenamedTo="ᮐ" Role="Field" Type="Button" />
+      <Member Name="button9" RenamedTo="ᮑ" Role="Field" Type="Button" />
+      <Member Name="button2" RenamedTo="ᮒ" Role="Field" Type="Button" />
+      <Member Name="button3" RenamedTo="ᮓ" Role="Field" Type="Button" />
+      <Member Name="SendMessage" RenamedTo="ᮘ" Role="Method" Type="Int32" />
+      <Member Name="ReleaseCapture" RenamedTo="ᮙ" Role="Method" Type="Boolean" />
+      <Member Name="FormMoveable_MouseDown" RenamedTo="ᮜ" Role="Method" Type="Void" />
+      <Member Name="CreateRoundRectRgn" RenamedTo="ᮣ" Role="Method" Type="IntPtr" />
+      <Member Name="button2_Click" RenamedTo="ᮦ" Role="Method" Type="Void" />
+      <Member Name="button3_Click" RenamedTo="ᮩ" Role="Method" Type="Void" />
+      <Member Name="button9_Click" RenamedTo="ᮬ" Role="Method" Type="Void" />
+      <Member Name="button11_Click" RenamedTo="ᮯ" Role="Method" Type="Void" />
+      <Member Name="CocoX3Key_Load" RenamedTo="᮲" Role="Method" Type="Void" />
+      <Member Name="label1_Click" RenamedTo="᮵" Role="Method" Type="Void" />
+      <Member Name="InitializeComponent" RenamedTo="᮷" Role="Method" Type="Void" />
+      <Member Name="ᮇ" RenamedTo="᮹" Role="Method" Type="String" />
+    </Type>
+    <Type Name="Functions" RenamedTo="ᯄ">
+      <Member Name="openfiledialog" RenamedTo="ᮽ" Role="Field" Type="OpenFileDialog" />
+      <Member Name="PopulateListBox" RenamedTo="ᯁ" Role="Method" Type="Void" />
+      <Member Name="ᮻ" RenamedTo="ᯃ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="HelloCocoX3" RenamedTo="᯺">
+      <Member Name="WM_NCLBUTTONDOWN" RenamedTo="ᯇ" Role="Field" Type="Int32" />
+      <Member Name="HT_CAPTION" RenamedTo="ᯈ" Role="Field" Type="Int32" />
+      <Member Name="components" RenamedTo="ᯉ" Role="Field" Type="IContainer" />
+      <Member Name="pictureBox1" RenamedTo="ᯊ" Role="Field" Type="PictureBox" />
+      <Member Name="button1" RenamedTo="ᯋ" Role="Field" Type="Button" />
+      <Member Name="button2" RenamedTo="ᯌ" Role="Field" Type="Button" />
+      <Member Name="button3" RenamedTo="ᯍ" Role="Field" Type="Button" />
+      <Member Name="SendMessage" RenamedTo="ᯒ" Role="Method" Type="Int32" />
+      <Member Name="ReleaseCapture" RenamedTo="ᯓ" Role="Method" Type="Boolean" />
+      <Member Name="FormMoveable_MouseDown" RenamedTo="ᯖ" Role="Method" Type="Void" />
+      <Member Name="CreateRoundRectRgn" RenamedTo="ᯝ" Role="Method" Type="IntPtr" />
+      <Member Name="Form1_Load" RenamedTo="ᯠ" Role="Method" Type="Void" />
+      <Member Name="button2_Click" RenamedTo="ᯣ" Role="Method" Type="Void" />
+      <Member Name="button3_Click" RenamedTo="᯦" Role="Method" Type="Void" />
+      <Member Name="button1_Click" RenamedTo="ᯩ" Role="Method" Type="Void" />
+      <Member Name="button4_Click" RenamedTo="ᯬ" Role="Method" Type="Void" />
+      <Member Name="webBrowser1_DocumentCompleted" RenamedTo="ᯯ" Role="Method" Type="Void" />
+      <Member Name="label1_Click" RenamedTo="᯲" Role="Method" Type="Void" />
+      <Member Name="button12_Click" RenamedTo="᯵" Role="Method" Type="Void" />
+      <Member Name="InitializeComponent" RenamedTo="᯷" Role="Method" Type="Void" />
+      <Member Name="ᯅ" RenamedTo="᯹" Role="Method" Type="String" />
+    </Type>
+    <Type Name="CocoX3" RenamedTo="ᱣ">
+      <Member Name="WRDAPI" RenamedTo="᯽" Role="Field" Type="ᬓ" />
+      <Member Name="FluxAPI" RenamedTo="᯾" Role="Field" Type="᪠" />
+      <Member Name="WM_NCLBUTTONDOWN" RenamedTo="᯿" Role="Field" Type="Int32" />
+      <Member Name="HT_CAPTION" RenamedTo="ᰀ" Role="Field" Type="Int32" />
+      <Member Name="wc" RenamedTo="ᰁ" Role="Field" Type="WebClient" />
+      <Member Name="defPath" RenamedTo="ᰂ" Role="Field" Type="String" />
+      <Member Name="components" RenamedTo="ᰃ" Role="Field" Type="IContainer" />
+      <Member Name="button3" RenamedTo="ᰄ" Role="Field" Type="Button" />
+      <Member Name="button2" RenamedTo="ᰅ" Role="Field" Type="Button" />
+      <Member Name="button5" RenamedTo="ᰆ" Role="Field" Type="Button" />
+      <Member Name="button6" RenamedTo="ᰇ" Role="Field" Type="Button" />
+      <Member Name="button8" RenamedTo="ᰈ" Role="Field" Type="Button" />
+      <Member Name="pictureBox1" RenamedTo="ᰉ" Role="Field" Type="PictureBox" />
+      <Member Name="button9" RenamedTo="ᰊ" Role="Field" Type="Button" />
+      <Member Name="button11" RenamedTo="ᰋ" Role="Field" Type="Button" />
+      <Member Name="button4" RenamedTo="ᰌ" Role="Field" Type="Button" />
+      <Member Name="label1" RenamedTo="ᰍ" Role="Field" Type="Label" />
+      <Member Name="webBrowser1" RenamedTo="ᰎ" Role="Field" Type="WebBrowser" />
+      <Member Name="button12" RenamedTo="ᰏ" Role="Field" Type="Button" />
+      <Member Name="listBox1" RenamedTo="ᰐ" Role="Field" Type="ListBox" />
+      <Member Name="button1" RenamedTo="ᰑ" Role="Field" Type="Button" />
+      <Member Name="SendMessage" RenamedTo="ᰖ" Role="Method" Type="Int32" />
+      <Member Name="ReleaseCapture" RenamedTo="ᰗ" Role="Method" Type="Boolean" />
+      <Member Name="FormMoveable_MouseDown" RenamedTo="ᰚ" Role="Method" Type="Void" />
+      <Member Name="CreateRoundRectRgn" RenamedTo="ᰡ" Role="Method" Type="IntPtr" />
+      <Member Name="button3_Click" RenamedTo="ᰤ" Role="Method" Type="Void" />
+      <Member Name="button2_Click" RenamedTo="ᰧ" Role="Method" Type="Void" />
+      <Member Name="addIntel" RenamedTo="ᰬ" Role="Method" Type="Void" />
+      <Member Name="addGlobalF" RenamedTo="ᰭ" Role="Method" Type="Void" />
+      <Member Name="addGlobalV" RenamedTo="ᰮ" Role="Method" Type="Void" />
+      <Member Name="addGlobalNS" RenamedTo="ᰯ" Role="Method" Type="Void" />
+      <Member Name="addMath" RenamedTo="ᰰ" Role="Method" Type="Void" />
+      <Member Name="addBase" RenamedTo="ᰱ" Role="Method" Type="Void" />
+      <Member Name="Form2_Load" RenamedTo="ᰴ" Role="Method" Type="Void" />
+      <Member Name="button4_Click" RenamedTo="᰷" Role="Method" Type="Void" />
+      <Member Name="button11_Click" RenamedTo="᰺" Role="Method" Type="Void" />
+      <Member Name="button6_Click" RenamedTo="᰽" Role="Method" Type="Void" />
+      <Member Name="button5_Click" RenamedTo="᱀" Role="Method" Type="Void" />
+      <Member Name="button7_Click" RenamedTo="᱃" Role="Method" Type="Void" />
+      <Member Name="webBrowser1_DocumentCompleted" RenamedTo="᱆" Role="Method" Type="Void" />
+      <Member Name="button12_Click" RenamedTo="᱉" Role="Method" Type="Void" />
+      <Member Name="listBox1_SelectedIndexChanged" RenamedTo="᱌" Role="Method" Type="Void" />
+      <Member Name="button8_Click" RenamedTo="ᱏ" Role="Method" Type="Void" />
+      <Member Name="button9_Click" RenamedTo="᱒" Role="Method" Type="Void" />
+      <Member Name="button4_Click_1" RenamedTo="᱕" Role="Method" Type="Void" />
+      <Member Name="button1_Click" RenamedTo="᱘" Role="Method" Type="Void" />
+      <Member Name="button10_Click" RenamedTo="ᱛ" Role="Method" Type="Void" />
+      <Member Name="button1_Click_1" RenamedTo="ᱞ" Role="Method" Type="Void" />
+      <Member Name="InitializeComponent" RenamedTo="ᱠ" Role="Method" Type="Void" />
+      <Member Name="᯻" RenamedTo="ᱢ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="Program" RenamedTo="ᱩ">
+      <Member Name="Main" RenamedTo="ᱦ" Role="Method" Type="Void" />
+      <Member Name="ᱤ" RenamedTo="ᱨ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="Settings" RenamedTo="ᱰ">
+      <Member Name="defaultInstance" RenamedTo="ᱬ" Role="Field" Type="" />
+      <Member Name="Default" RenamedTo="ᱭ" Role="Property" Type="" />
+      <Member Name="get_Default" RenamedTo="get_ᱭ" Role="Method" Type="Settings" />
+      <Member Name="ᱪ" RenamedTo="ᱯ" Role="Method" Type="String" />
+    </Type>
+    <Type Name="Resources" RenamedTo="ᱲ" />
+    <Type Name="ᱲ">
+      <Member Name="resourceMan" RenamedTo="ᱵ" Role="Field" Type="ResourceManager" />
+      <Member Name="resourceCulture" RenamedTo="ᱶ" Role="Field" Type="CultureInfo" />
+      <Member Name="ResourceManager" RenamedTo="ᱷ" Role="Property" Type="ResourceManager" />
+      <Member Name="Culture" RenamedTo="ᱸ" Role="Property" Type="CultureInfo" />
+      <Member Name="Group_1" RenamedTo="ᱹ" Role="Property" Type="Bitmap" />
+      <Member Name="Group_10" RenamedTo="ᱺ" Role="Property" Type="Bitmap" />
+      <Member Name="Group_14" RenamedTo="ᱻ" Role="Property" Type="Bitmap" />
+      <Member Name="Group_16" RenamedTo="ᱼ" Role="Property" Type="Bitmap" />
+      <Member Name="Group_17" RenamedTo="ᱽ" Role="Property" Type="Bitmap" />
+      <Member Name="Group_5" RenamedTo="᱾" Role="Property" Type="Bitmap" />
+      <Member Name="Path_1" RenamedTo="᱿" Role="Property" Type="Bitmap" />
+      <Member Name="Rectangle_2" RenamedTo="ᲀ" Role="Property" Type="Bitmap" />
+      <Member Name="Rectangle_4" RenamedTo="ᲁ" Role="Property" Type="Bitmap" />
+      <Member Name="Rectangle_5" RenamedTo="ᲂ" Role="Property" Type="Bitmap" />
+      <Member Name="Update" RenamedTo="ᲃ" Role="Property" Type="Bitmap" />
+      <Member Name="get_ResourceManager" RenamedTo="get_ᱷ" Role="Method" Type="ResourceManager" />
+      <Member Name="get_Culture" RenamedTo="get_ᱸ" Role="Method" Type="CultureInfo" />
+      <Member Name="set_Culture" RenamedTo="set_ᱸ" Role="Method" Type="Void" />
+      <Member Name="get_Group_1" RenamedTo="get_ᱹ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Group_10" RenamedTo="get_ᱺ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Group_14" RenamedTo="get_ᱻ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Group_16" RenamedTo="get_ᱼ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Group_17" RenamedTo="get_ᱽ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Group_5" RenamedTo="get_᱾" Role="Method" Type="Bitmap" />
+      <Member Name="get_Path_1" RenamedTo="get_᱿" Role="Method" Type="Bitmap" />
+      <Member Name="get_Rectangle_2" RenamedTo="get_ᲀ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Rectangle_4" RenamedTo="get_ᲁ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Rectangle_5" RenamedTo="get_ᲂ" Role="Method" Type="Bitmap" />
+      <Member Name="get_Update" RenamedTo="get_ᲃ" Role="Method" Type="Bitmap" />
+      <Member Name="ᱳ" RenamedTo="ᲆ" Role="Method" Type="String" />
+    </Type>
+  </Assembly>
+  <Chunks>
+    <Chunk Name="FluxAPI" RenamedTo="᪡" />
+    <Chunk Name="WeAreDevs_API" RenamedTo="ᬔ" />
+    <Chunk Name="Coco_X3" RenamedTo="᭎" />
+    <Chunk Name="Properties" RenamedTo="ᱱ" />
+  </Chunks>
+</Symbols>

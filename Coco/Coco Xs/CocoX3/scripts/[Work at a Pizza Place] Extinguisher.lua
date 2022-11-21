@@ -1,0 +1,1 @@
+game.Workspace.Extinguisher.Extinguisher.ClickDetector.Detector:FireServer()

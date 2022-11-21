@@ -1,0 +1,14 @@
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\Mars 2.exe.config
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\Mars 2.exe
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\Mars 2.pdb
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\CheatSquadAPI.dll
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\Guna.UI.dll
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\bin\Release\VisualStudioTabControl.dll
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.csprojAssemblyReference.cache
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars_2.MarsII.resources
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars_2.Properties.Resources.resources
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.csproj.GenerateResource.cache
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.csproj.CopyComplete
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.exe
+C:\Users\Xiaom\source\repos\Mars 2\Mars 2\obj\Release\Mars 2.pdb

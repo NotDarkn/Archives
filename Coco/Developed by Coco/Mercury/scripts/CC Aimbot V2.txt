@@ -1,0 +1,6 @@
+--[[
+Press - to minimize CC Aimbot, Press v to open Menu
+CC Aimbot contains Aimbot, ESP, Fly, Noclip, and Infinite Jump
+]]--
+
+loadstring(game:HttpGet(('https://gitlab.com/marsscripts/marsscripts/-/raw/master/CCAimbotV2'),true))()

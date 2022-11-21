@@ -1,0 +1,57 @@
+﻿  Main.cpp
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\r_lua.h(168,109): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\r_lua.h(185,79): warning C4042: 'func': has bad storage class
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\r_lua.h(196,2): warning C4091: 'typedef ': ignored on left of 'r_VTValue' when no variable is declared
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(201,18): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(215,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'DWORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(228,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(237,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(266,12): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(278,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(287,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,31): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,37): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,43): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,43): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,49): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,55): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,55): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,61): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,61): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,67): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,67): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,73): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(338,73): warning C4309: 'initializing': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Wrapping.h(377,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(30,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(136,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(137,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(139,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(140,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(232,83): warning C4129: '+': unrecognized character escape sequence
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(337,31): warning C4309: '=': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(354,28): warning C4309: '=': truncation of constant value
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Functions.h(909,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(34,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(37,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(44,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(47,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(54,14): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(63,10): warning C4244: 'initializing': conversion from 'lua_Number' to 'LONG', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(64,10): warning C4244: 'initializing': conversion from 'lua_Number' to 'LONG', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(105,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'WORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(113,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'WORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(123,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'WORD', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\InputLib.h(124,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Main.cpp(242,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Main.cpp(243,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Main\Main.cpp(283,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  5 of 2622 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    93 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  X-M.vcxproj -> C:\Users\adamr\Documents\MEGAsync Downloads\X-MM\X-M\Release\Coco.dll

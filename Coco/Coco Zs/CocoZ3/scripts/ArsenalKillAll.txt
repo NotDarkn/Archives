@@ -1,0 +1,2 @@
+-- Press F to Kill All
+loadstring(game:HttpGet(('https://gitlab.com/marsscripts/marsscripts/-/raw/master/KillAll'),true))()

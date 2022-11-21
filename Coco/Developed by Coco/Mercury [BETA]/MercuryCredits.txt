@@ -1,0 +1,9 @@
+I'll be honest here, i'm just a designer, not a developer, this means that I only worked on the creative aspects of Mercury (aka weird design choices and logo) so most of the code in Mercury isn't mines, it's from a shit ton of google searches and from some friends and people in this community
+Call me a skid whatever you want, but at least I take the time to give credit to people whenever, and I don't pretend to be a C# dev unlike some people.
+
+N4ri - Design
+
+Animation Code: I don't fucking know, I used to think they're from Laxion, then I thought they were from Atrexus, and now Maximus says they're from Microsoft?!?!?!?!
+Ducxy - Teaching me about the h o l y Properties.Settings 
+Joe22 - Moving Gradients
+C# Corner - Clock

@@ -1,0 +1,2 @@
+--READ!!! Only works on Simon and game must be taking place. Execute this when you see a "Simon says" message on screen! It only takes a second for the simon to say something, then once they do, you can do this.
+game.Workspace.BasicCommand:FireServer(7, "", 5.5, 1.5, true, "Pizza")

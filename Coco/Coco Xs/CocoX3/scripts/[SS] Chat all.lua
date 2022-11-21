@@ -1,0 +1,1 @@
+require(1074006010):chatall("INSERT WORD HERE")

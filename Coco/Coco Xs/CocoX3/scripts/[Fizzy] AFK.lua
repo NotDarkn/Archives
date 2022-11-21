@@ -1,0 +1,1 @@
+game.ReplicatedStorage.AFK_Remote:FireServer()

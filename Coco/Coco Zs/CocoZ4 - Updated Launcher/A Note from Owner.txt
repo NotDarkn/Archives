@@ -1,0 +1,35 @@
+Hello, it's one of the Coco Z owners, N4ri.
+
+I decided to write a little note for you, because i know some of you have trouble using Coco Z.
+
+If this is your first time using any exploit, i highly suggest running the CocoStrapper, this downloads Coco Z
+for you, sure, but it does many other things, like Excluding Coco Z from Windows Defender, and install some
+libraries so Coco can work out of the box, Thank Wabz for making this.
+
+Download: https://cdn.discordapp.com/attachments/784407603068796969/791338192707387432/CocoStrapper.exe
+
+There is also a CocoStrapper tutorial avaliable Thanks to Darkn:
+https://cdn.discordapp.com/attachments/784407603068796969/791370766523826216/Video_How_to_use_CocoStrapper.mp4
+
+If Coco has issues injecting, try installing these 2 things:
+Microsoft Visual C++ x86: https://aka.ms/vs/16/release/vc_redist.x86.exe
+Microsoft Visual C++ x64: https://aka.ms/vs/16/release/vc_redist.x64.exe
+
+Note that Extreme Injector won't work, because for some unknown reason, it only works on one injector, 
+Puppy Milk Injector.
+
+If you are confused on using Coco Z, you can refer to our Instructions Manual:
+https://cocotechnology.tech/instructions.pdf
+
+If you are Deleting Coco Z, and are having issues, it's most likely that Coco Z is running in the background,
+do not worry, we aren't doing anything malicious, it's just that Coco Z is at an unoptimized state currently.
+To fix this, go find Coco Z in your Task Manager, and end the task.
+
+If you cannot resolve your issues, go to our discord server and get some help, thought our support
+may be incompetent, if so, you can contact me, but i am not always free to help, and you may not
+annoy me to help you, i will most likely ban you.
+
+Do NOT DM MCGamin1738, he is not welcome to greet anyone and will ban you, he is too busy to develop to help you.
+
+If you have any complaints about the current support team, please DM me and i will take it into consideration.
+

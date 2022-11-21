@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Lua">
+      <UniqueIdentifier>{5aa82619-6fcf-4864-bf82-5ff6d5d407d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files">
+      <UniqueIdentifier>{65b8f369-5d46-4e8a-b4da-fe24c0e192eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Roblox">
+      <UniqueIdentifier>{964791a7-9f74-4660-acae-dac238d90a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions">
+      <UniqueIdentifier>{4104fe0d-b20e-4c53-b8ff-ac7e772a1b94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Other">
+      <UniqueIdentifier>{88ec4bb3-46c3-4702-8c30-ab9ca84e675f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Other\Encryption">
+      <UniqueIdentifier>{d0162e4b-def6-4a0c-834e-cf82cf77e813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions\Drawing">
+      <UniqueIdentifier>{d44901b8-305f-490c-b2d8-58cc5ccf60f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions\Drawing\ImGui">
+      <UniqueIdentifier>{2961b811-5b91-42a8-ae2a-099e24e43d99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions\BitOp">
+      <UniqueIdentifier>{9955eba9-8e35-4e14-a155-4e8a247668b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions\Other">
+      <UniqueIdentifier>{71dc7a77-a1af-4e64-aba9-1184f6e895d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files\Functions\Input">
+      <UniqueIdentifier>{e433de06-3795-468f-bc4b-f1014f896bd1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lapi.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lauxlib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lbaselib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lcode.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ldblib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ldebug.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ldo.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ldump.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lfunc.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lgc.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\linit.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\liolib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\llex.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lmathlib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lmem.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\loadlib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lobject.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lopcodes.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\loslib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lparser.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lstate.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lstring.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lstrlib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ltable.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ltablib.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\ltm.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lundump.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lvm.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="Lua\lzio.c">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx9.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx11.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_demo.cpp">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawingAPI.cpp">
+      <Filter>Source Files\Files\Functions\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="Encryption\Base64.cpp">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClCompile>
+    <ClCompile Include="Encryption\sha256.cpp">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClCompile>
+    <ClCompile Include="Encryption\AES256.cpp">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lua\lapi.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lauxlib.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lcode.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ldebug.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ldo.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lfunc.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lgc.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\llex.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\llimits.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lmem.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lobject.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lopcodes.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lparser.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lstate.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lstring.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ltable.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ltm.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lua.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lua.hpp">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\luaconf.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lualib.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lundump.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lvm.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lzio.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="r_lua.h">
+      <Filter>Source Files\Files\Roblox</Filter>
+    </ClInclude>
+    <ClInclude Include="retcheck.h">
+      <Filter>Source Files\Files\Roblox</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.h">
+      <Filter>Source Files\Files\Roblox</Filter>
+    </ClInclude>
+    <ClInclude Include="Wrapping.h">
+      <Filter>Source Files\Files\Roblox</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Source Files\Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeProtect.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx9.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx11.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imconfig.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>Source Files\Files\Functions\Drawing\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.hpp">
+      <Filter>Source Files\Files\Functions\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawingAPI.hpp">
+      <Filter>Source Files\Files\Functions\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleColorLib.h">
+      <Filter>Source Files\Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="InputLib.h">
+      <Filter>Source Files\Files\Functions\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="BitOpLib.h">
+      <Filter>Source Files\Files\Functions\BitOp</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Source Files\Files\Functions\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\Base64.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\Protection.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\ProtectionSDK.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\sha256.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\XorString.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\AES256.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\AES256KEY.h">
+      <Filter>Source Files\Files\Other\Encryption</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

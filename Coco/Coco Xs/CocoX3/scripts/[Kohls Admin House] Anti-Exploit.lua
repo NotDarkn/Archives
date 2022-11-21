@@ -1,0 +1,21 @@
+--Note, you can still do exploits
+
+now = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+=
+game.Workspace.Terrain.GameFolder.Admin.Pads['Touch to get admin'].Head.CFrame
+wait(.25)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = now
+wait(.25)
+game.Players:Chat(":btools me")
+wait(.3)
+game.Players.LocalPlayer.Backpack.Delete.delete:FireServer(Workspace.Terrain.GameFolder.Admin.Regen)
+wait(.5)
+game.Players:Chat(":removetools me")
+wait(.5)
+while true do
+game.Players:Chat(":removetools others")
+wait()
+end
+--Makes others unable to use exploits. Stops idiots from kicking or banning you, lel.

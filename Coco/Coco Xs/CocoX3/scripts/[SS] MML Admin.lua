@@ -1,0 +1,1 @@
+require(520532182).giveAdmin("name")
