@@ -7,3 +7,4 @@ Currently this is public and won't be changed to private too often, maybe someti
 - Coco Archive
 - Sona Archive
 - Taurine Archive
+- Discord Thanksgiving Archive
