@@ -1,8 +1,9 @@
 # Archives: Coco
-The private archive made for Coco Z, Coco X, made by Coco exploits, and more.
+The entire archive made for Coco.
 
-This is currently private, and is made for the staff or developers of Coco:
-Cozy, hell0u, Cortex, MCgamin1738, Laxion, etc.
+This consists of many different archives, such as Z5, history about Coco, the X exploits, and more.
+
+This entire archive has been made public, as Coco (the exploit) is dead. There is no point of keeping it private anymore lol.
 
 # Currently includes:
 - The entire Coco X Archive.
