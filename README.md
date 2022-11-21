@@ -1,2 +1,6 @@
 # Archives
-The private archive made for Coco Z, Coco X, made by Coco exploits, and more.
+All of my archives uploaded onto Github.
+
+This is currently privated and WILL NOT be uploading online to the public.
+
+Maybe it will be uploaded to the public, but for the time being, everything is private.
