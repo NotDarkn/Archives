@@ -1,6 +1,7 @@
 # Archives
 All of my archives uploaded onto Github.
 
-This is currently privated and WILL NOT be uploading online to the public.
+Currently this is public and won't be changed to private too often, maybe sometimes, but not often.
 
-Maybe it will be uploaded to the public, but for the time being, everything is private.
+# Currently includes:
+- Coco Archive
