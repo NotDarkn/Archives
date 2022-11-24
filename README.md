@@ -9,6 +9,7 @@ Currently this is public and won't be changed to private too often, maybe someti
 - Taurine Archive
 - Discord Thanksgiving Archive
 - Roblox Archive
+- IMSCARED (game) Archive
 
 # Extra Info
 I'm willing to add any archives that a person has.
