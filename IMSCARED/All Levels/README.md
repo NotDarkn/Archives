@@ -2,6 +2,8 @@
 
 Use data_custom_press_F3.win, rename to data.win, then press F3 in-game and use one of the numbers below.
 
+More info on levels (and organized) here: https://steamcommunity.com/sharedfiles/filedetails/?id=2884002455
+
 0- rm_init
 
 1- rm_menu
